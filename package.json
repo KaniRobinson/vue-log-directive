@@ -1,0 +1,20 @@
+{
+  "name": "vue-log-directive",
+  "version": "1.0.0",
+  "description": "Vue 3 custom directive for logging",
+  "main": "vue-log-directive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanirobinson/vue-log-directive.git"
+  },
+  "keywords": ["vue", "log", "directive"],
+  "author": "Kani Robinson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/vue-log-directive/issues"
+  },
+  "homepage": "https://github.com/yourusername/vue-log-directive#readme"
+}
