@@ -1,6 +1,6 @@
 {
   "name": "vue-log-directive",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Vue 3 custom directive for logging",
   "main": "vue-log-directive.js",
   "scripts": {
@@ -13,8 +13,8 @@
   "keywords": ["vue", "log", "directive"],
   "author": "Kani Robinson",
   "license": "MIT",
+  "homepage": "https://github.com/kanirobinson/vue-log-directive#readme",
   "bugs": {
-    "url": "https://github.com/yourusername/vue-log-directive/issues"
-  },
-  "homepage": "https://github.com/yourusername/vue-log-directive#readme"
+    "url": "https://github.com/kanirobinson/vue-log-directive/issues"
+  }
 }
