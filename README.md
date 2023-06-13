@@ -3,7 +3,7 @@
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue)
 
-Vue Log Directive is a Vue.js (2.x & 3.x) custom directive that provides an easy way to log your data to the console.
+Vue Log Directive is a Vue.js (3.x) custom directive that provides an easy way to log your data to the console.
 
 ## Installation
 
