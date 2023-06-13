@@ -17,10 +17,12 @@ Using yarn:
 
 ## Usage
 
-`import { createApp } from 'vue';
+```js
+import { createApp } from 'vue';
 import VueLogDirective from 'vue-log-directive';
 
-createApp(App).use(VueLogDirective).mount('#app');` 
+createApp(App).use(VueLogDirective).mount('#app');
+```
 
 After installing and importing `vue-log-directive`, you can use the `v-log` directive in your templates:
 
